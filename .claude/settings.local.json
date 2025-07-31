@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir C:Usersewmewblank-project-elysia*.json)",
+      "Bash(ls:*)",
+      "Bash(bun install:*)"
+    ],
+    "deny": []
+  }
+}
